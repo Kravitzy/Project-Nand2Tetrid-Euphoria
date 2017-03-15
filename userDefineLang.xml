@@ -1,0 +1,36 @@
+<NotepadPlus>
+    <UserLang name="euphoria" ext="e ex ew exw eu exu pro err">
+        <Settings>
+            <Global caseIgnored="no" />
+            <TreatAsSymbol comment="yes" commentLine="yes" />
+            <Prefix words1="no" words2="no" words3="no" words4="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&quot;&apos;0&quot;&apos;0</Keywords>
+            <Keywords name="Folder+">for while if procedure function type</Keywords>
+            <Keywords name="Folder-">end</Keywords>
+            <Keywords name="Operators">&apos; ! &quot; $ % &amp; ( ) * , / : ? [ ] { } + &lt; = &gt;</Keywords>
+            <Keywords name="Comment">1-- 2 0--</Keywords>
+            <Keywords name="Words1">if then elsif else end for to by do while include as global constant function procedure type with without exit return and or not xor</Keywords>
+            <Keywords name="Words2">length puts integer sequence position object append prepend print printf clear_screen floor getc gets get_key rand repeat atom compare find match time command_line open close trace getenv sqrt sin cos tan log system date remainder power machine_func mf machine_proc mp abort peek poke call sprintf arctan and_bits or_bits xor_bits not_bits pixel get_pixel mem_copy mem_set c_proc c_func routine_id call_proc call_func poke4 peek4s peek4u equal system_exec platform type_check profile_time profile warning trace</Keywords>
+            <Keywords name="Words3">all_palette allocate allocate_low allocate_string allow_break arccos arcsin atom_to_float32 atom_to_float64 bits_to_int bk_color bytes_to_int call_back case_la case_ru case_xx chdir check_break check_all_blocks crash_file crash_message crash_routine current_dir cursor custom_sort define_c_func define_c_proc define_c_var dir display_image display_text_image dos_interrupt draw_line ellipse float32_to_atom float64_to_atom flush free free_console free_low get get_active_page get_all_palette get_bytes get_display_page get_mouse get_position get_screen_char get_vector graphics_mode instance int_to_bits int_to_bytes lock_file lock_memory lower message_box mouse_events mouse_pointer open_dll palette PI polygon put_screen_char pretty_print read_bitmap register_block reverse save_bitmap save_image save_screen save_text_image scroll seek set_active_page set_display_page set_rand set_vector sleep sort sound sprint text_color text_rows tick_rate unlock_file unregister_block upper use_vesa value video_config wait_key where wildcard_file wildcard_match wrap prompt_string prompt_number walk_dir allow_break check_break check_free_list db_close db_compress db_create db_create_table db_delete_record db_delete_table db_dump db_find_key db_insert db_open db_record_data db_record_key db_replace_data db_rename_table db_select db_select_table db_table_list db_table_size recode database.e databasr.e dll.e dll____r.e file.e file___r.e get.e get____r.e graphics.e graphicr.e image.e image__r.e machine.e machiner.e misc.e misc___r.e mouse.e mouse__r.e msgbox.e msgbox_r.e safe.e safe___r.e sort.e sort___r.e wildcard.e wildcarr.e ports.e ports__r.e dma.e dma____r.e rus_add.e rus_addr.e</Keywords>
+            <Keywords name="Words4"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" fontSize="12" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="0000A0" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" fontSize="12" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="FF00FF" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" fontSize="12" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="0000FF" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" fontSize="12" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" fontSize="12" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="FF0000" bgColor="FFFFFF" fontName="Courier New" fontStyle="2" fontSize="12" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" fontSize="12" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" fontSize="12" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="00FF40" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" fontSize="12" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="00FF40" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" fontSize="12" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
